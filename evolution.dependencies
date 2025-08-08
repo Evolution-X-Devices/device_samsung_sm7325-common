@@ -1,0 +1,24 @@
+[
+  {
+    "repository": "kernel_samsung_sm7325",
+    "target_path": "kernel/samsung/sm7325",
+    "branch": "cnb"
+  },
+  {
+    "remote": "github-non-los",
+    "repository": "LineageOS/android_hardware_samsung",
+    "target_path": "hardware/samsung",
+    "branch": "lineage-24.0"
+  },
+  {
+    "remote": "github-non-los",
+    "repository": "LineageOS/android_hardware_samsung_slsi_nfc",
+    "target_path": "hardware/samsung_slsi/nfc",
+    "branch": "lineage-24.0"
+  },
+  {
+    "repository": "vendor_samsung_sm7325-common",
+    "target_path": "vendor/samsung/sm7325-common",
+    "branch": "cnb"
+  }
+]
